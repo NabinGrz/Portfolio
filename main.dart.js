@@ -74617,7 +74617,7 @@ o.w=A.apt()
 s=p.k3
 s===$&&A.a()
 s.O(o.gug())
-p.ok=o}return new A.wY(new A.xi(p.adR(),o,"Nimbus CV",q,!1,r),r)}}
+p.ok=o}return new A.wY(new A.xi(p.adR(),o,"Nabin Gurung",q,!1,r),r)}}
 A.ny.prototype={
 a3(){var s=null,r=t.C
 return new A.Or(new A.b5(s,t.sW),A.Kf(),A.b([new A.lr("Home",new A.b5(s,r),!0),new A.lr("About",new A.b5(s,r),!1),new A.lr("Skills",new A.b5(s,r),!1),new A.lr("Projects",new A.b5(s,r),!1),new A.lr("Experience",new A.b5(s,r),!1)],t.yh),s,s)}}
