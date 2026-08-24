@@ -4,7 +4,7 @@ export const personalInfo = {
   name: 'Nabin Gurung',
   role: 'Mobile App Developer',
   specialization: 'Mid Level Flutter Developer & Mobile Specialist',
-  bio: 'Passionate Mobile App Developer with 3+ years of experience specializing in cross-platform mobile development using Flutter & Dart. Strong expertise in event-driven state management (BLoC, Cubit, MobX) and Clean Architecture across Fintech, Agriculture Insurance, Construction Tracking, and Expense Management.',
+  bio: "Flutter Developer for past 3 years so far, specialized in a mobile application development. With vast and deep experience of Flutter, I add some spices in your app. Let's give your idea a reality.",
   location: 'Samakhusi, Kathmandu, Nepal',
   email: 'lama.gurung.nabin@gmail.com',
   phone: '+977 9846458568',
