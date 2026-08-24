@@ -163,10 +163,10 @@ export const Projects: React.FC = () => {
 
                   </div>
 
-                  {/* Right Column: Phone Mockup Frame */}
+                  {/* Right Column: Phone Mockup Frame with Real Project Screenshot */}
                   <div className={`lg:col-span-5 flex justify-center ${isEven ? 'lg:order-2' : 'lg:order-1'}`}>
                     <div className="relative group-hover:scale-[1.02] transition-transform duration-300">
-                      <PhoneMockup screenType={project.screenType} interactive={false} />
+                      <PhoneMockup screenType={project.screenType} image={project.image} interactive={false} />
                     </div>
                   </div>
 

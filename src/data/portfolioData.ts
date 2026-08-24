@@ -97,6 +97,7 @@ export const projectsData: Project[] = [
     color: '#06b6d4',
     gradient: 'from-cyan-500/20 via-blue-500/10 to-transparent',
     screenType: 'citypay',
+    image: '/images/portfolio_01.jpg',
     featured: true,
     githubUrl: 'https://github.com/NabinGrz',
     liveUrl: 'https://gurungnabin.com.np'
@@ -125,6 +126,7 @@ export const projectsData: Project[] = [
     color: '#3b82f6',
     gradient: 'from-blue-500/20 via-indigo-500/10 to-transparent',
     screenType: 'namaste',
+    image: '/images/portfolio_02.jpg',
     featured: true,
     githubUrl: 'https://github.com/NabinGrz',
     liveUrl: 'https://gurungnabin.com.np'
@@ -153,6 +155,7 @@ export const projectsData: Project[] = [
     color: '#10b981',
     gradient: 'from-emerald-500/20 via-teal-500/10 to-transparent',
     screenType: 'agri',
+    image: '/images/portfolio_03.jpg',
     featured: true,
     githubUrl: 'https://github.com/NabinGrz',
     liveUrl: 'https://gurungnabin.com.np'
@@ -181,6 +184,7 @@ export const projectsData: Project[] = [
     color: '#f59e0b',
     gradient: 'from-amber-500/20 via-orange-500/10 to-transparent',
     screenType: 'cronlink',
+    image: '/images/portfolio_04.jpg',
     featured: true,
     githubUrl: 'https://github.com/NabinGrz',
     liveUrl: 'https://gurungnabin.com.np'
@@ -208,6 +212,7 @@ export const projectsData: Project[] = [
     color: '#8b5cf6',
     gradient: 'from-purple-500/20 via-indigo-500/10 to-transparent',
     screenType: 'kharcha',
+    image: '/images/portfolio_05.jpg',
     featured: true,
     githubUrl: 'https://github.com/NabinGrz',
     liveUrl: 'https://gurungnabin.com.np'

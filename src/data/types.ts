@@ -17,6 +17,7 @@ export interface Project {
   color: string;
   gradient: string;
   screenType: 'citypay' | 'namaste' | 'agri' | 'cronlink' | 'kharcha';
+  image: string;
   featured: boolean;
 }
 
